@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# Awesome-Model-Pytorch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -9,7 +8,3 @@
 
 * [Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks](https://arxiv.org/abs/2105.02358)---[code](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
 
-=======
-# Awesome-Model-Pytorch
-pytorch implementation of deep learning models
->>>>>>> ae318e2e1d1ed4c4a191c39b7710b3eae97ccf8f
